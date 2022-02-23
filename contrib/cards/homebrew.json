@@ -2,24 +2,22 @@
   "units": {
     "Empire": {
       "Operative": [
-        {
-          "name": "Gar Saxon",
-          "title": "Ferocius and Merciless Warrior",
-          "image": "http://cloud-3.steamusercontent.com/ugc/1638738640751698926/DEEC78B093B0018CAB33C87DC0888B05EF646E68/",
+         {
+          "name": "Darth Vader",
+          "title": "The Emperor's Apprentice",
+          "image": "https://cdn.discordapp.com/attachments/743061009698259008/942330242066972702/vader_apprentice.png",
           "size": "small",
-          "type": "Mandalorian Trooper",
-          "points": 120,
-          "speed": 3,
+          "type": "Trooper",
+          "points": 175,
+          "speed": 1,
           "upgrades": {
-            "Training": 2,
-            "Comms": 1,
-            "Gear": 1,
-            "Armament": 2
+            "Force": 2,
+            "Training": 1
           },
           "minis": [
             {
-              "mesh": "http://cloud-3.steamusercontent.com/ugc/1021696737982271779/BBF522FC361772E237872CCC9E983F4A7CD58838/",
-              "diffuse": "http://cloud-3.steamusercontent.com/ugc/1021696737982271948/1595F95FC7DB45109C0C2BCBE8A06B0F487FD04E/"
+              "mesh": "http://cloud-3.steamusercontent.com/ugc/777357228030156593/FEBA127ECDF2917EA8F8066BBB10BADA7D365D3E/",
+              "diffuse": "http://cloud-3.steamusercontent.com/ugc/785234540541324289/B37D84D512722740E8310629C3E7BFC45AF0FBC9/"
             }
           ],
           "commands": [
